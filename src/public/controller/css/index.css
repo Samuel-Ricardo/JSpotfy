@@ -1,0 +1,9 @@
+html, body {
+  display: grid;
+  place-items: center center;
+  background: #daf7de;
+  font-family: 'Permanent Marker', cursive;
+  min-height: 100vh;
+}
+
+
