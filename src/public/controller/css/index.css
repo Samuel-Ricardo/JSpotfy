@@ -55,4 +55,15 @@ button.unassigned {
   display: none;
 }
 
-
+section {
+  position: relative;
+  box-shadow: 0 5px 35px rgb(9, 22, 29);
+  background: rgb(9, 22, 29);
+  height: 300px;
+  width: 650px;
+  padding: 7rem, 4rem, 4rem, 4rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  border-radius: 15px;
+}
