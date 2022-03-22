@@ -21,6 +21,7 @@ button {
   background-color: #00ff00e8;
   border: none;
   border-radius: 15px;
+  font-family: monospace,'Courier New', Courier,;
   font-size: 1.3rem;
   transition: all 250ms;
   box-shadow: 1px 1px 0px #0e3c17,
@@ -61,7 +62,7 @@ section {
   background: rgb(9, 22, 29);
   height: 300px;
   width: 650px;
-  padding: 7rem, 4rem, 4rem, 4rem;
+  padding: 7rem 4rem 4rem 4rem;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
