@@ -39,6 +39,10 @@ button.active {
   top: 2.5px;
 }
 
+button.unassigned {
+  background: #0f5e2a;
+}
+
 #start {
   background: rgb(213, 242, 108);
 }
@@ -50,3 +54,5 @@ button.active {
 .hidden {
   display: none;
 }
+
+
