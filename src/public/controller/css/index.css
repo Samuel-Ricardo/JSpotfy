@@ -46,3 +46,7 @@ button.active {
 #stop{
   background: rgb(242, 144, 108);
 }
+
+.hidden {
+  display: none;
+}
