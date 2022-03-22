@@ -16,3 +16,20 @@ img {
   max-height: 150px;
 }
 
+button {
+  cursor: pointer;
+  background-color: #00ff00e8;
+  border: none;
+  border-radius: 15px;
+  font-size: 1.3rem;
+  transition: all 250ms;
+  box-shadow: 1px 1px 0px #0e3c17,
+              1px 2px 0px #0e3c17,
+              1px 3px 0px #0e3c17,
+              1px 4px 0px #0e3c17,
+              1px 5px 0px #0e3c17,
+              1px 6px 0px #0e3c17,
+              1px 7px 0px #0e3c17,
+  ;
+}
+
