@@ -67,3 +67,16 @@ section {
   gap: 1rem;
   border-radius: 15px;
 }
+
+section::after {
+  background-image: url(https://www.elgato.com/sites/default/files/2018-10/product_logo_streamdeck.png);
+  content: "";
+  display: block;
+  position: absolute;
+  left: 24%;
+  top: 7.5px;
+  margin: 0 auto;
+  height: 82px;
+  width: 393px;
+  transform: scale(0.8);
+}
