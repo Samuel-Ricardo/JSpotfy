@@ -93,6 +93,13 @@ html, body{ font-family: "Gotham", sans-serif }
   color: #e4e4e4;
 }
 
+.container_section_cards_actions-btn {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
