@@ -100,6 +100,16 @@ html, body{ font-family: "Gotham", sans-serif }
   margin-bottom: 2rem;
 }
 
+.container_section_cards_actions-btn p {
+  width: 40px;
+  text-align: center;
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  padding: 0.4rem 0.8rem;
+  border: #e4e4e4 solid 1px;
+  border-radius: 3px;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
