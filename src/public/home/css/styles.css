@@ -32,3 +32,7 @@ html, body{ font-family: "Gotham", sans-serif }
   text-transform: capitalize;
   font-weight: bold;
 }
+
+.sidebar_brand{ width: 2rem }
+
+
