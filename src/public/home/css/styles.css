@@ -149,6 +149,14 @@ html, body{ font-family: "Gotham", sans-serif }
   margin: 1rem 0;
 }
 
+.container__section__content__cards__image img {
+  width: 120px;
+  height: 120px;
+  border-radius: 8px;
+  background: linear-gradient(120deg, #211c27, #191414);
+  box-shadow: 0px 0px 17px -3px #000;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
