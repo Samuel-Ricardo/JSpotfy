@@ -58,6 +58,14 @@ html, body{ font-family: "Gotham", sans-serif }
   gap: 1.4rem;
 }
 
+.container_section_radio-header_image img {
+  width: 180px;
+  height: 180px;
+  border-radius: 8px;
+  background: linear-gradient(120deg, #211c27, #191414);
+  box-shadow: 0px 0px 17px -3px #000;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
