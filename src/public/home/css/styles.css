@@ -134,6 +134,14 @@ html, body{ font-family: "Gotham", sans-serif }
   margin: 0.8rem 0;
 }
 
+.container__section__content__cards p {
+  color: #bebebe;
+  font-size: 0.8rem;
+  margin: 0.8rem 0;
+  line-height: normal;
+  text-align: justify;
+}
+
 .container__section__content__cards__card {
   display: flex;
   gap: 1.5rem;
