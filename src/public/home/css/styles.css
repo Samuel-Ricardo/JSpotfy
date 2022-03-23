@@ -35,6 +35,13 @@ html, body{ font-family: "Gotham", sans-serif }
 
 .sidebar_brand{ width: 2rem }
 
+.sidebar_navbar_link{
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  text-transform: capitalize;
+}
+
 .sidebar_navbar_links{
   display: flex;
   flex-direction: column;
