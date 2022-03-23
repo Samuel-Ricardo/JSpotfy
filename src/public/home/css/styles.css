@@ -78,7 +78,11 @@ html, body{ font-family: "Gotham", sans-serif }
   text-transform: uppercase;
 }
 
-
+.container_section_radio-header_infos h1 {
+  font-size: 3rem;
+  font-weight: bolder;
+  word-wrap: break-word;
+}
 
 .container_sidebar{
   display: flex;
