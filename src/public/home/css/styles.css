@@ -51,6 +51,13 @@ html, body{ font-family: "Gotham", sans-serif }
   border-radius: 50%;
 }
 
+.container_section_radio-header {
+  display: flex;
+  align-items: flex-end;
+  margin: 2rem;
+  gap: 1.4rem;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
