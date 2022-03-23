@@ -73,6 +73,13 @@ html, body{ font-family: "Gotham", sans-serif }
   color: #fff;
 }
 
+.container_section_radio-header_infos p{
+  font-size: 0.7rem;
+  text-transform: uppercase;
+}
+
+
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
