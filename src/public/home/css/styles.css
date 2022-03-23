@@ -18,6 +18,11 @@ html, body{ font-family: "Gotham", sans-serif }
   padding: 1.3rem 0 7rem 15rem;
 }
 
+.container__section__content {
+  display: flex;
+  gap: 4rem;
+}
+
 .container_section_arrow {
   color: #e4e4e4;
   background: rgba(0, 0, 0, 0.274);
@@ -116,9 +121,12 @@ html, body{ font-family: "Gotham", sans-serif }
   text-transform: capitalize;
 }
 
-.container__section__content {
-  display: flex;
-  gap: 4rem;
+.container__section__content__cards__image img {
+  width: 120px;
+  height: 120px;
+  border-radius: 8px;
+  background: linear-gradient(120deg, #211c27, #191414);
+  box-shadow: 0px 0px 17px -3px #000000;
 }
 
 .container__section__content__cards__card {
