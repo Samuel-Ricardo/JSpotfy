@@ -33,6 +33,18 @@ html, body{ font-family: "Gotham", sans-serif }
   padding: 0.2rem;
 }
 
+.container_section_user {
+  font-weight: 600;
+  font-size: 0.8rem;
+  background-color:#191414;
+  color: #e4e4e4;
+  padding: 3px 10px 3px 4px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
