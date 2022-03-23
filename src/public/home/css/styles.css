@@ -66,6 +66,13 @@ html, body{ font-family: "Gotham", sans-serif }
   box-shadow: 0px 0px 17px -3px #000;
 }
 
+.container_section_radio-header_infos {
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+  color: #fff;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
