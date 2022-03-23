@@ -18,6 +18,14 @@ html, body{ font-family: "Gotham", sans-serif }
   padding: 1.3rem 0 7rem 15rem;
 }
 
+.container_section_arrow {
+  color: #e4e4e4;
+  background: rgba(0, 0, 0, 0.274);
+  border-radius: 50%;
+  padding: 0.4rem 0.6rem;
+  margin: 0.3rem;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
