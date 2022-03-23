@@ -11,6 +11,13 @@ html, body{ font-family: "Gotham", sans-serif }
 
 .container { display: flex }
 
+.container_section{
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(120deg, #339933, #191419);
+  padding: 1.3rem 0 7rem 15rem;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
