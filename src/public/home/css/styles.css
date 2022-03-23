@@ -142,6 +142,11 @@ html, body{ font-family: "Gotham", sans-serif }
   text-align: justify;
 }
 
+.container__section__content__cards h4 {
+  font-weight: 600;
+  margin: 0.8rem 0;
+}
+
 .container__section__content__cards__card {
   display: flex;
   gap: 1.5rem;
