@@ -10,3 +10,15 @@
 html, body{ font-family: "Gotham", sans-serif }
 
 .container { display: flex }
+
+.container_sidebar{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: fixed;
+  gap: 3rem;
+  padding: 0 5rem 0 1.5rem;
+  color: var(--sidebar-color);
+  background-color: var(--sidebar-background);
+}
+
