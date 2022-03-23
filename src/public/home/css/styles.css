@@ -129,6 +129,11 @@ html, body{ font-family: "Gotham", sans-serif }
   box-shadow: 0px 0px 17px -3px #000000;
 }
 
+.container__section__content__cards h4 {
+  font-weight: 600;
+  margin: 0.8rem 0;
+}
+
 .container__section__content__cards__card {
   display: flex;
   gap: 1.5rem;
