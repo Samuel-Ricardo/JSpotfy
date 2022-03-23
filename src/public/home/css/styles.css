@@ -86,6 +86,13 @@ html, body{ font-family: "Gotham", sans-serif }
 
 .container_section_radio-header_infos h3 { font-weight: 600 }
 
+.container_section_cards {
+  display: flex;
+  flex-direction: column;
+  padding: 1.3rem 2rem 0 2rem;
+  color: #e4e4e4;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
