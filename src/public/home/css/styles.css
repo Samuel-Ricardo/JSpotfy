@@ -121,6 +121,13 @@ html, body{ font-family: "Gotham", sans-serif }
   gap: 4rem;
 }
 
+.container__section__content__cards__card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1rem 0;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
