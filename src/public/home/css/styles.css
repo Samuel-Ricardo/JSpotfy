@@ -116,6 +116,11 @@ html, body{ font-family: "Gotham", sans-serif }
   text-transform: capitalize;
 }
 
+.container__section__content {
+  display: flex;
+  gap: 4rem;
+}
+
 .container_sidebar{
   display: flex;
   flex-direction: column;
