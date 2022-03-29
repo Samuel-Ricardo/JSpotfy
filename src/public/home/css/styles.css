@@ -388,4 +388,7 @@ html, body{ font-family: "Gotham", sans-serif }
 
   .hide { display: none; }
   .hide-desktop { display: flex; }
+
+  .container { flex-direction: column; }
+
 }
