@@ -393,5 +393,12 @@ html, body{ font-family: "Gotham", sans-serif }
   .container_section { padding: 1.3rem 0 5rem 0; }
   .container__section__content { flex-direction:column-reverse; gap:2rem; }
   .container_section_radio-header_infos { flex-direction: column-reverse; }
-  
+
+  .container__section__radio-header__infos h1 {
+    font-size: 1.7rem;
+    line-height: 1.3;
+    word-break: break-all;
+  }
+
+
 }
