@@ -234,5 +234,6 @@ html, body{ font-family: "Gotham", sans-serif }
   background-color: #191414cb;
   color: #e4e4e4;
   padding: 5px 10px;
-  
+  border-radius: 16px;
+  display: inline-block;
 }
