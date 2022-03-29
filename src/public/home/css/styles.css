@@ -310,6 +310,13 @@ html, body{ font-family: "Gotham", sans-serif }
   gap: 0.5rem;
 }
 
+.audio-player #SeekObjContainer {
+  position: relative;
+  width: 300px;
+  margin: 0 5 px;
+  height: 5px;
+}
+
 .audio-player #playAudio {
   -webkit-appearance: none;
   outline: none;
