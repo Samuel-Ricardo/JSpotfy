@@ -408,6 +408,7 @@ html, body{ font-family: "Gotham", sans-serif }
 
   .container__section__cards__actions-btn { margin-bottom: 0; }
 
+  .container__section__content__cards__card p { line-height: 1.3; }
   .container__section__content__cards__card {
     flex-direction: column;
     margin-top: 1rem;
@@ -415,9 +416,11 @@ html, body{ font-family: "Gotham", sans-serif }
     gap: 0;
   }
 
+  .container__section__content__cards__image img { width: 70px; height: 70px; }
+
   .container__section__content__cards p { line-height: 1.4; }
   .container__section__content__cards h4 { line-height: 1.4; }
-  
+
 
   .chage-side {
     display: flex;
