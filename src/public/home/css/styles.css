@@ -422,13 +422,6 @@ html, body{ font-family: "Gotham", sans-serif }
 
   .container__sidebar__brand { margin: 0; color: #fff; }
 
-  .chage-side {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap:1rem;
-  }
-
   .player {
     border-radius: 10px;
     width: 95%;
@@ -438,7 +431,21 @@ html, body{ font-family: "Gotham", sans-serif }
     justify-content: space-between;
     padding-bottom: 0px;
   }
-
+  .player__actions{margin-right:1rem;}
   .player__song { gap: 0.8rem; }
+  .audio-player { width: 10%; }
 
+  .player__song__image img {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 0.5rem;
+  }
+
+  .chage-side {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:1rem;
+  }
 }
