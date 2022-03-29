@@ -382,5 +382,11 @@ html, body{ font-family: "Gotham", sans-serif }
 
 .player-controls-row p:first-of-type { width: 45px; }
 
+/* Mobile */
 
+@media (max-width:1040px){
 
+  .hide {
+    display: none;
+  }
+}
