@@ -392,6 +392,6 @@ html, body{ font-family: "Gotham", sans-serif }
   .container { flex-direction: column; }
   .container_section { padding: 1.3rem 0 5rem 0; }
   .container__section__content { flex-direction:column-reverse; gap:2rem; }
+  .container_section_radio-header_infos { flex-direction: column-reverse; }
   
-
 }
