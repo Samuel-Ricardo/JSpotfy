@@ -290,11 +290,9 @@ html, body{ font-family: "Gotham", sans-serif }
   color:#fff;
   background: #1DB954;
   color: #191414;
-  font-size: 0.8rem;
-  font-weight: bold;
+  font-size: 0.8rem; font-weight: bold;
   display: flex;
-  align-items: center;
-  justify-content: flex-end;
+  align-items: center; justify-content: flex-end;
   gap: 1rem;
 }
 
