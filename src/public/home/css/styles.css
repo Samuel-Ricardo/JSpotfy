@@ -326,7 +326,7 @@ html, body{ font-family: "Gotham", sans-serif }
   background-size: contain;
 }
 
-.audio-player #nextAudio {
+.audio-player #NextAudio {
   -webkit-appearance: none;
   outline: none;
   cursor: pointer;
