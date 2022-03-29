@@ -254,3 +254,6 @@ html, body{ font-family: "Gotham", sans-serif }
   border-top: #292929 solid 1px;
   padding-bottom: 20px;
 }
+
+.player__song{ display: flex; align-items: center; gap: 1.3rem; }
+
