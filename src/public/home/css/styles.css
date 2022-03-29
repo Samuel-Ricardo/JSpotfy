@@ -296,3 +296,6 @@ html, body{ font-family: "Gotham", sans-serif }
   gap: 1rem;
 }
 
+.device-bar p {
+  padding: 0.5rem 1.5rem 0.5rem 0;
+}
