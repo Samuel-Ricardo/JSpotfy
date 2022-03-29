@@ -276,4 +276,11 @@ html, body{ font-family: "Gotham", sans-serif }
   margin-left: 1rem;
 }
 
+.player__actions {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-right: 1rem;
+}
+
 
