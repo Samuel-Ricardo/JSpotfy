@@ -349,3 +349,9 @@ html, body{ font-family: "Gotham", sans-serif }
     center;
   background-size: contain;
 }
+
+.player-controls-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
