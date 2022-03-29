@@ -429,4 +429,14 @@ html, body{ font-family: "Gotham", sans-serif }
     gap:1rem;
   }
 
+  .player {
+    border-radius: 10px;
+    width: 95%;
+    margin: auto;
+    bottom: 8px;
+    height: 8vh;
+    justify-content: space-between;
+    padding-bottom: 0px;
+  }
+
 }
