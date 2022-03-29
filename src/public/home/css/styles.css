@@ -404,4 +404,14 @@ html, body{ font-family: "Gotham", sans-serif }
     min-width: 110px;
     min-height: 110px;
   }
+
+  .container__section__cards__actions-btn { margin-bottom: 0; }
+
+  .container__section__content__cards__card {
+    flex-direction: column;
+    margin-top: 1rem;
+    align-items: flex-start;
+    gap: 0;
+  }
+
 }
