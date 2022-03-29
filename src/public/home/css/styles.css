@@ -400,5 +400,8 @@ html, body{ font-family: "Gotham", sans-serif }
     word-break: break-all;
   }
 
-
+  .container__section__radio-header__image img {
+    min-width: 110px;
+    min-height: 110px;
+  }
 }
