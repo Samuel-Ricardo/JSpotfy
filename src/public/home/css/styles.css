@@ -439,4 +439,6 @@ html, body{ font-family: "Gotham", sans-serif }
     padding-bottom: 0px;
   }
 
+  .player__song { gap: 0.8rem; }
+
 }
