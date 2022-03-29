@@ -386,7 +386,5 @@ html, body{ font-family: "Gotham", sans-serif }
 
 @media (max-width:1040px){
 
-  .hide {
-    display: none;
-  }
+  .hide { display: none; }
 }
