@@ -263,3 +263,11 @@ html, body{ font-family: "Gotham", sans-serif }
   font-size: 0.9rem;
   margin-bottom: 0.3rem;
 }
+
+.player__song p:last-of-type {
+  text-transform: capitalize;
+  font-size: 0.7rem;
+  color: #bebebe;
+}
+
+
