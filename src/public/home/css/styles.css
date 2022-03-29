@@ -390,5 +390,6 @@ html, body{ font-family: "Gotham", sans-serif }
   .hide-desktop { display: flex; }
 
   .container { flex-direction: column; }
+  .container_section { padding: 1.3rem 0 5rem 0; }
 
 }
