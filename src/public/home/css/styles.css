@@ -415,6 +415,7 @@ html, body{ font-family: "Gotham", sans-serif }
     gap: 0;
   }
 
+  .container__section__content__cards p { line-height: 1.4; }
   .container__section__content__cards h4 { line-height: 1.4; }
   
 
