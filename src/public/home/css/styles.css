@@ -355,3 +355,8 @@ html, body{ font-family: "Gotham", sans-serif }
   align-items: center;
   gap: 1rem;
 }
+
+.player-controls-row p:first-of-type { width: 45px; }
+
+
+
