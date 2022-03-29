@@ -321,7 +321,7 @@ html, body{ font-family: "Gotham", sans-serif }
   background-size: contain;
 }
 
-.audio-player #playAudio.pause {
+.audio-player #PlayAudio.pause {
   background: url("https://img.icons8.com/FFFFFF/pause") no-repeat center;
   background-size: contain;
 }
