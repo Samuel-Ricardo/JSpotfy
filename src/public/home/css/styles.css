@@ -365,6 +365,15 @@ html, body{ font-family: "Gotham", sans-serif }
   background-color: #666666;
 }
 
+.audio-player #SeekObjContainer #SeekObj #Percentage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  border-radius: 5px;
+  background-color: #FFF;
+}
+
 .player-controls-row {
   display: flex;
   align-items: center;
