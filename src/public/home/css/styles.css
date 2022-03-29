@@ -237,3 +237,5 @@ html, body{ font-family: "Gotham", sans-serif }
   border-radius: 16px;
   display: inline-block;
 }
+
+.hide-desktop { display: none; }
