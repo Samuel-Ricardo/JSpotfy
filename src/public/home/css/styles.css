@@ -302,3 +302,10 @@ html, body{ font-family: "Gotham", sans-serif }
 
 
 .audio-player { display: flex; align-items: center; width: 30%; }
+
+.audio-player .player-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
